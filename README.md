@@ -1,4 +1,2 @@
-CSS Task List
-
-A simple, pure CSS task list template.
+A simple, CSS-only task list/reminders template.
 Demo: http://melaniez.com/tasklist.html
